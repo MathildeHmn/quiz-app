@@ -1,3 +1,4 @@
+// Questions / Answers
 const quizData = [
     {
         question: 'A quel écrivain doit-on le personnage de Boule-de-Suif ?',
@@ -37,6 +38,7 @@ const quizData = [
     }
 ];
 
+// Others constants
 const quiz = document.getElementById("quiz");
 const answerEls = document.querySelectorAll(".answer");
 const questionEl = document.getElementById("question");
@@ -46,6 +48,7 @@ const c_text = document.getElementById("c_text");
 const d_text = document.getElementById("d_text");
 const submitBtn = document.getElementById("submit");
 
+// Variables
 let currentQuiz = 0;
 let score = 0;
 
