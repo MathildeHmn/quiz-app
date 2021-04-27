@@ -2,7 +2,7 @@
 
 FR -
 
-ATTENTION : Pour pouvoir consulter le contenu de ce projet, bien sélectionner la branche master plutôt que la branche main.
+ATTENTION : Pour pouvoir consulter le contenu de ce projet, sélectionner la branche master plutôt que la branche main.
 
 Une petite application de quiz simple avec l'obtention d'un résultat à la fin du test.
 
